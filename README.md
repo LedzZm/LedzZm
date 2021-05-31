@@ -9,8 +9,5 @@
 
 <!---
 Add Icons / Liks to technologies and add outside hobbies etc....
-Add web-bunch etc 
-Add section about drupal & web-bunch projects
-Maybe create template for other web-bunch members
-propose to others & add them to comp page.
+Add section about drupal projects
 --->
