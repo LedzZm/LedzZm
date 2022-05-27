@@ -1,4 +1,4 @@
-:construction: Greeting still under construction  :P :construction:
+:construction: Greeting still under construction :construction:
 - 👋 Hi, I’m @LedzZm
 <!-- - 👀 I’m interested in PWAs
 - 🌱 I’m currently learning NextJs
